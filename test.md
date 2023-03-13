@@ -8,4 +8,4 @@ You can contact me through mikawi@ybm-development.com
 
 stats             |  languages
 :-------------------------:|:-------------------------:
-![Omar's GitHub stats](https://drive.google.com/file/d/1lfHye-q9utrin34BpucoQ4sWUwbEZHkm/view?usp=share_link)  |  ![Top Langs](https://drive.google.com/file/d/1k-BkLg96Wq7_JRS1kBhwzmETwMxx9ct5/view?usp=share_link)
+![Mikawi's GitHub stats](https://drive.google.com/file/d/1lfHye-q9utrin34BpucoQ4sWUwbEZHkm/view?usp=share_link)  |  ![Top Langs](https://drive.google.com/file/d/1k-BkLg96Wq7_JRS1kBhwzmETwMxx9ct5/view?usp=share_link)
