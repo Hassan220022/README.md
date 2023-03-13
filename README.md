@@ -10,5 +10,6 @@ You can contact me through mikawi@ybm-development.com
 
 |                                   stats                                   |                                 languages                                 |
 | :-----------------------------------------------------------------------: | :-----------------------------------------------------------------------: |
-| ![image](Screenshot 2023-03-13 at 4.58.07 PM.png) | ![image](Screenshot 2023-03-13 at 4.59.50 PM.png
+| <img src="[pic_trulli.jpg](https://photos.google.com/share/AF1QipPAEMuPq5ZTvHvucoq9aFL8ayGNZ2pIMM2Fnon414aaUIb3ca-wcHrJr6sZl_yKkw/photo/AF1QipNw3qz4C_PiISNpFebDcrFRhGVUinf0xxX-bhGp?key=dFR4S1lSTUJuYmpoVGtMUUd4WWlRTkZ4ejVKRXFB)" alt="Italian Trulli">
+) | ![image](Screenshot 2023-03-13 at 4.59.50 PM.png
 ) |
